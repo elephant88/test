@@ -3,17 +3,19 @@
 #### [Contact me][em] 
 [em]: mailto:ohkcheng@outlook.com "Send email"
 
-> ### Education 
-#### [YORK UNIVERSITY](https://futurestudents.yorku.ca/ "York U"), 2006 - 2010                                                                                                          
+> ### Education  
+
+#### [YORK UNIVERSITY](https://futurestudents.yorku.ca/ "York U"), 2006 - 2010  
+
 __Faculty of Liberal Arts and Professional Studies__ 
 	
 * Degree –Bachelor of Arts, specialized in economics
 * Member, York University Chinese Debate Club
 
 > ### Experience 
+
 #### [CONNOR CLARK AND LUNN FINANCIAL GROUP](https://www.cclgroup.com/cclfg/en "CCL Financial Group"), 2013 - Present
 __Institutional Client Reporting Specialist__
-
 * Worked collaboratively with various support teams to accurately prepare and compile weekly, monthly, quarterly reports for distribution to institutional clients 
 * Led and coordinated various projects to implement improvements on current processes through identifying challenges, allowing for a more timely and efficient work flow across multiple affiliates and support teams
 * Contributed to the implementation of a new reporting system by compiling a list of business requirements through analyzing and understanding current reporting/CRM systems from a technical and business user standpoint 
