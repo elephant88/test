@@ -45,6 +45,5 @@ __Customer Service Representative__, __Financial Services Representative__
 * Proven leadership and teamwork qualities by taking initiative in assisting others by resolving procedural and customer related issues
 * Achieved a performance rating of “quality high”, and averaged the sale of two products per day YTD –consistently better than the performance level required by the business
 
-> ### Interests 
 
 
