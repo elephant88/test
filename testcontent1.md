@@ -4,8 +4,8 @@
 [em]: mailto:ohkcheng@outlook.com "Send email"
 
 > ### Education 
-#### YORK UNIVERSITY                                                                                                          
-__Faculty of Liberal Arts and Professional Studies__
+#### [YORK UNIVERSITY](https://futurestudents.yorku.ca/ "York U"), 2006 - 2010                                                                                                          
+__Faculty of Liberal Arts and Professional Studies__ 
 	
 * Degree –Bachelor of Arts, specialized in economics
 * Member, York University Chinese Debate Club
@@ -43,4 +43,6 @@ __Customer Service Representative__, __Financial Services Representative__
 * Proven leadership and teamwork qualities by taking initiative in assisting others by resolving procedural and customer related issues
 * Achieved a performance rating of “quality high”, and averaged the sale of two products per day YTD –consistently better than the performance level required by the business
 
-> ### Interests
+> ### Interests 
+
+
